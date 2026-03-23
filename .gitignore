@@ -34,3 +34,6 @@ Thumbs.db
 
 # Uploads (runtime)
 backend/uploads/
+
+# Screenshots
+screenshot-*.png
